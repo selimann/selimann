@@ -1,4 +1,4 @@
-Backend Developer (Golang) 
+**Backend Developer (Golang)**
 
 **Core Stack:**
 - Language: Go
