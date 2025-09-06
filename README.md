@@ -32,7 +32,7 @@
 
 ---
 
-* Interested in: *  
+**Interested in:**  
 - Blockchain  
 - Large Language Models (LLM)  
 
