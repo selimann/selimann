@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Backend+Developer+(Golang);Clean+Code+%7C+High+Performance+%7C+Scalability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Backend+Developer+(Golang);Clean%20Code%20%7C%20High%20Performance%20%7C%20Scalability" alt="Typing SVG" />
 </p>
+
 
 ---
 
