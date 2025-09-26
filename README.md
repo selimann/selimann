@@ -1,38 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Backend%20Developer%20(Golang);" alt="Typing SVG" />
-</p>
-
----
-
-### Backend Developer (Golang)
-
-**Core Stack:**
-- Go  
-- PostgreSQL  
-- Redis  
-- Kafka  
-- gRPC  
-- Docker  
-- GitHub Actions  
-- Makefile  
-- Git  
-- Postman  
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" alt="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" alt="Kafka"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" height="50" alt="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-</p>
-
-
-
----
-
-**Interested in:**  
+Software Engineer
+**Interested in:**
+- Web development
 - Blockchain  
 - Large Language Models (LLM)  
 
