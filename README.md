@@ -1,8 +1,4 @@
 Software Engineer
-**Interested in:**
-- Web development
-- Blockchain  
-- Large Language Models (LLM)  
 
 ---
 
